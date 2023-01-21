@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá :metal:
+
+#### Dev Front-end
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- GIT
+
+# Confira abixo alguns dos meus projetos
 
 <!--
 **LeonardoTorresRodrigues/LeonardoTorresRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
