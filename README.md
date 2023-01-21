@@ -1,6 +1,6 @@
 ### Olá :metal:
 
-#### Dev Front-end
+#### Dev Front-end :computer:
 - HTML
 - CSS
 - JavaScript
@@ -8,7 +8,13 @@
 - React
 - GIT
 
-# Confira abixo alguns dos meus projetos
+#### Sobre mim :coffee:
+- Gamer desde sempre
+- Amante de uma boa música
+
+#### O que estou estudando no momento :book:
+- React Router DOM
+- Algoritmos e Fundamentos
 
 <!--
 **LeonardoTorresRodrigues/LeonardoTorresRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
