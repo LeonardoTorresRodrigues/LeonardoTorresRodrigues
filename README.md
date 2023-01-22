@@ -1,5 +1,7 @@
 ### Olá :metal:
 
+Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias. Também me ensinou a respeitar minha equipe de trabalho e ajudarmos uns aos outros pera evoluirmos como um todo.
+
 #### Dev Front-end :computer:
 - HTML
 - CSS
@@ -10,7 +12,9 @@
 
 #### Sobre mim :coffee:
 - Gamer desde sempre
+  > Jogo video-game desde criança e tenho a intenção de trabalhar com isso algum dia.
 - Amante de uma boa música
+  > Sou audiófilo. Escuto de tudo, sempre buscando o melhor som possível.
 
 #### O que estou estudando no momento :book:
 - React Router DOM
