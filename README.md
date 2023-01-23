@@ -2,7 +2,7 @@
 
 Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho e ajudarmos uns aos outros pera evoluirmos como um todo.
 
-Estudando progrmação há mais de um ano! :nerd_face: Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
+Estudando programação há mais de um ano! :nerd_face: Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
 
 #### Expêriencia no Front-end :computer:
 - HTML
