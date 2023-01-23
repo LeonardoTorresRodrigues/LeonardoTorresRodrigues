@@ -1,14 +1,16 @@
 ### Olá :metal:
 
-Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias. Também me ensinou a respeitar minha equipe de trabalho e ajudarmos uns aos outros pera evoluirmos como um todo.
+Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho e ajudarmos uns aos outros pera evoluirmos como um todo.
 
-#### Dev Front-end :computer:
+Estudando progrmação há mais de um ano! :nerd_face: Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
+
+#### Expêriencia no Front-end :computer:
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - React
-- GIT
+- Versionamento com GIT
 
 #### O que estou estudando no momento :book:
 - React Router DOM
