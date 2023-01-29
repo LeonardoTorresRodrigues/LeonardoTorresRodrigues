@@ -4,19 +4,21 @@
   <a href="https://www.linkedin.com/in/leonardo-torres-rodrigues/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/vaci_leo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <H1>Olá :metal:</H1>
+  <H1>Olá :smile:</H1>
 </div>
 
-Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho e ajudarmos uns aos outros pera evoluirmos como um todo.
-
-Estudando programação há mais de um ano! :nerd_face: Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
+<div align="center">
+  <p>
+    Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho e     ajudarmos uns aos outros pera evoluirmos como um todo.
+  </p>
+    <p>
+      Estudando programação há mais de um ano! Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
+    </p>  
+</div>
 
 | :placard: Expêriencia com Front-end :computer:  |
 | -------------|
