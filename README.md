@@ -22,7 +22,7 @@
 
 | :placard: Expêriencia com Front-end :computer:  |
 | -------------|
-| center HTML5 
+| HTML5 
 | CSS3 
 | JavaScript 
 | TypeScript 
