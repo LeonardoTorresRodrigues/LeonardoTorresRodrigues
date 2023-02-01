@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <H1>Olá :smile: eu sou o Leonardo!</H1>
+  <H1>Olá, eu sou o Leonardo :smile: </H1>
 </div>
 
 <div align="center">
