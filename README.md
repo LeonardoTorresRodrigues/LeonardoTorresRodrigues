@@ -25,6 +25,14 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)">
    </div>
+  
+  ---
+  
+  <div align="center">
+    <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif">
+  </div>
+  
+  # Sobre
 
   #### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho e     ajudarmos uns aos outros pera evoluirmos como um todo.
   #### Estudando programação há mais de um ano! Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
