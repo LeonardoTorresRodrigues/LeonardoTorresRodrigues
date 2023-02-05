@@ -28,10 +28,6 @@
   
   ---
   
-  <div align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-  
   # Sobre
 
   #### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudarmos uns aos outros pera evoluirmos como um todo.
