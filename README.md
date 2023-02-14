@@ -36,5 +36,6 @@
 # O que estou estudando no momento :book:
 - React Router DOM
 - Algoritmos e Fundamentos
-- Orientação a Objetos (Java)
+- Orientação a Objetos
+- Java
  
