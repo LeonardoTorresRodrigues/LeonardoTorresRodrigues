@@ -34,7 +34,6 @@
   ### Estudando programação há mais de um ano! Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
    
 # O que estou estudando no momento :book:
-- React Router DOM
 - Algoritmos e Fundamentos
 - Orientação a Objetos
 - Java
