@@ -37,5 +37,4 @@
 - Algoritmos e Fundamentos
 - Orientação a Objetos
 - Java
-- Containers
  
