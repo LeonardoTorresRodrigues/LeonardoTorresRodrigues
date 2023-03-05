@@ -31,7 +31,14 @@
   # Sobre
 
   ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudarmos uns aos outros pera evoluirmos como um todo.
-  ### Estudando programação há mais de um ano! Com foco no front-end, mas sempre em busca de aprender o que está por baixo dos panos :mag:
+  
+  - Front-end Dev
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Typescript
+  - Java
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
