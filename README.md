@@ -44,8 +44,5 @@
 - Algoritmos e Fundamentos
 - Orientação a Objetos
 - Java
-- Virtual Machines 
-- Containers 
-- Computação
 
  
