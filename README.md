@@ -42,8 +42,6 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
-- Orientação a Objetos
-- Java
 - Virtualização 
 
  
