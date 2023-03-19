@@ -43,5 +43,6 @@
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
 - Virtualização 
+- Melhores práticas com React
 
  
