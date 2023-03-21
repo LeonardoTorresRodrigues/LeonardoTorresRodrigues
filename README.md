@@ -44,5 +44,7 @@
 - Algoritmos e Fundamentos
 - Virtualização 
 - Melhores práticas com React
+- Vite
+- Styled Components
 
  
