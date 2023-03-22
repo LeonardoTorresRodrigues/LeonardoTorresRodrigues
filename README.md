@@ -30,7 +30,7 @@
   
   # Sobre
 
-  ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudarmos uns aos outros pera evoluirmos como um todo.
+  ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudar uns aos outros pera evoluirmos como um todo.
   
   - Front-end Dev
   - HTML
