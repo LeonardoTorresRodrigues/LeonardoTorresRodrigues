@@ -43,7 +43,7 @@
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
 - Virtualização 
-- Melhores práticas com JavaScript
+- JavaScript para beck-end
 - Melhores práticas com React
 - Vite
 - Styled Components
