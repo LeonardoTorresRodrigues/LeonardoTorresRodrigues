@@ -47,5 +47,7 @@
 - Melhores práticas com React
 - Vite
 - Styled Components
+- API
+- Containers
 
  
