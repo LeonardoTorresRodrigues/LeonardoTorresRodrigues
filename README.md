@@ -49,5 +49,6 @@
 - Styled Components
 - API
 - Containers
+- Python 
 
  
