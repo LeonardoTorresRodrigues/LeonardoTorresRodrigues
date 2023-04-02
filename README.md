@@ -42,13 +42,10 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
-- Virtualização 
 - JavaScript para beck-end
-- Melhores práticas com React
 - Vite
 - Styled Components
 - API
-- Containers
 - Python 
 
  
