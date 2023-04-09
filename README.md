@@ -31,14 +31,6 @@
   # Sobre
 
   ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudar uns aos outros pera evoluirmos como um todo.
-  
-  - Front-end Dev
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Typescript
-  - Java
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
