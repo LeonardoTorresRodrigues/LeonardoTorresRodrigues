@@ -35,9 +35,9 @@
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
 - JavaScript para beck-end
-- Vite
+- Projetos React com Vite
 - Styled Components
-- Como manipular API
+- Trabalhando com API
 - Chat bots para Telegram com Python
 
  
