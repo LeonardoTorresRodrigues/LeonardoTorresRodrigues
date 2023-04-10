@@ -37,7 +37,7 @@
 - JavaScript para beck-end
 - Vite
 - Styled Components
-- API
-- Python 
+- Como manipular API
+- Chat bots para Telegram com Python
 
  
