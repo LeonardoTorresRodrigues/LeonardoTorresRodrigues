@@ -34,10 +34,10 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
-- JavaScript para beck-end
-- Projetos React com Vite
+- JavaScript
+- React + Vite
 - Styled Components
-- Trabalhando com API
-- Chat bots para Telegram com Python
+- API's
+- Python
 
  
