@@ -30,7 +30,7 @@
   
   # Sobre
 
-  ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, respeitar minha equipe de trabalho   e ajudar uns aos outros pera evoluirmos como um todo.
+  ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, equipe e ajudar uns aos outros para evoluirmos como um todo.
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
