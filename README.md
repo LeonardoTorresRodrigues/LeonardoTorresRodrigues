@@ -41,5 +41,6 @@
 - Python
 - Kernel Linux
 - Diferença entre distros Linux
+- Memória
 
  
