@@ -34,10 +34,12 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
-- JavaScript
+- Objetos em JavaScript
 - React + Vite
 - Styled Components
 - API's
 - Python
+- Kernel Linux
+- Diferença entre distros Linux
 
  
