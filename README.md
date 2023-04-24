@@ -43,5 +43,6 @@
 - Diferença entre distros Linux
 - Memória
 - Shell
+- WSL2
 
  
