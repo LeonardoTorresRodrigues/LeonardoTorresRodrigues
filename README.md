@@ -34,7 +34,6 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
-- Objetos em JavaScript
 - React + Vite
 - Styled Components
 - API's
