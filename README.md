@@ -36,7 +36,6 @@
 - Algoritmos e Fundamentos
 - React + Vite
 - Next.js
-- Styled Components
 - Kernel Linux
 - Diferença entre distros Linux
 - Memória
