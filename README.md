@@ -35,13 +35,10 @@
 # O que estou estudando no momento :book:
 - Algoritmos e Fundamentos
 - React + Vite
+- Next.js
 - Styled Components
-- API's
-- Python
 - Kernel Linux
 - Diferença entre distros Linux
 - Memória
 - Shell
-- WSL2
-
  
