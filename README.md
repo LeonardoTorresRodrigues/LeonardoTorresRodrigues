@@ -35,5 +35,5 @@
 # O que estou estudando no momento :book:
 - React + Vite
 - Next.js
-- Shell
+- Projetos Fullstack
  
