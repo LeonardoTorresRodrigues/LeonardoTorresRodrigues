@@ -34,4 +34,5 @@
    
 # O que estou estudando no momento :book:
 - Next.js
+- Algoritmos
  
