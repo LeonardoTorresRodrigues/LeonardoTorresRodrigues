@@ -33,6 +33,5 @@
   ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, equipe e ajudar uns aos outros para evoluirmos juntos.
    
 # O que estou estudando no momento :book:
-- Next.js
 - Algoritmos
  
