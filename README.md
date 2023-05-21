@@ -34,4 +34,5 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos
+- Tailwind CSS
  
