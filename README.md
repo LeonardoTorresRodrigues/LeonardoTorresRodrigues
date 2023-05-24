@@ -37,3 +37,4 @@
 - Tailwind CSS
 - Unreal Engine 5
 - UI/UX
+- NodeJS
