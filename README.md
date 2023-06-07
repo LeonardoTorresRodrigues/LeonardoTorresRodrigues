@@ -34,4 +34,3 @@
    
 # O que estou estudando no momento :book:
 - Algoritmos
-- Impacto gerado por IAs
