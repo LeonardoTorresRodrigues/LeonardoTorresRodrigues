@@ -30,7 +30,11 @@
   
   # Sobre
 
-  ### Minha experiência profissional me ensinou a ter o máximo respeito com o cliente, me adaptar a pedidos, respeitar hierarquias, equipe e ajudar uns aos outros para evoluirmos juntos.
+Sou um entusiasta da programação com mais de 2 anos de experiência em projetos pessoais e challenges.
+
+Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito máximo ao cliente. Acredito que uma comunicação clara e eficaz é essencial para entender e atender às necessidades dos clientes de forma satisfatória.
+
+Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir meu conhecimento de forma autônoma.
    
 # O que estou estudando no momento :book:
 - Algoritmos
