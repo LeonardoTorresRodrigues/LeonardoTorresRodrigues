@@ -40,4 +40,3 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
 - Algoritmos
 - Automatização de tarefas com IA
 - Styled-Components
-- SCRUM
