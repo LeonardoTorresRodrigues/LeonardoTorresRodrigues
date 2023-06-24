@@ -38,5 +38,5 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
    
 # O que estou estudando no momento :book:
 - Algoritmos
-- Styled-Components
+- Tailwind.css
 - Automatização de tarefas com IA
