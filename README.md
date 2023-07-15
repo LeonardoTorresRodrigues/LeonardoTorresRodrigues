@@ -38,5 +38,4 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
    
 # O que estou estudando no momento :book:
 - Node.js
-- styled-components
 
