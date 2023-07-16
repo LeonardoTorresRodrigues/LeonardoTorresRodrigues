@@ -38,3 +38,5 @@ Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito má
 Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir meu conhecimento de forma autônoma.
    
 # O que estou estudando no momento :book:
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
