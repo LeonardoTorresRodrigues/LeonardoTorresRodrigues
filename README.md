@@ -45,3 +45,4 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
 
 - Estilização de páginas web com TailwindCSS
 - Programação Orientada a Objetos com JavaScript
+- CRUD
