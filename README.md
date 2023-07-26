@@ -39,8 +39,6 @@ Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito má
 Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir meu conhecimento de forma autônoma.
    
 # O que estou estudando no momento :book:
-
-- Estilização de páginas web com TailwindCSS
-- Programação Orientada a Objetos com JavaScript
 - CRUD
 - Docker
+- SQL
