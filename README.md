@@ -42,6 +42,4 @@ Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito má
 Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir meu conhecimento de forma autônoma.
    
 # O que estou estudando no momento :book:
-- CRUD
-- Docker
-- SQL
+- Script de testes
