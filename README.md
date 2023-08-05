@@ -44,4 +44,5 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
    
 # O que estou estudando no momento :book:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-- Como criar testes unitários
+- Testes unitários com Jest
+- Testes de integração do Jest
