@@ -44,5 +44,4 @@ Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir 
    
 # O que estou estudando no momento :book:
 
-- Testes unitários com Jest
-- Testes de integração do Jest
+- Testes unitários e de integração com Jest
