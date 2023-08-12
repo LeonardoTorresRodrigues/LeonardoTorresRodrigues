@@ -43,6 +43,3 @@ Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito má
 Entregar trabalhos próprios me permite aprimorar minhas habilidades e expandir meu conhecimento de forma autônoma.
    
 # O que estou estudando no momento :book:
-
-- Testes unitários e de integração com Jest
-- Banco de Dados
