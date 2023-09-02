@@ -36,7 +36,7 @@
   
   # Sobre
 
-Sou um entusiasta da programação com mais de 2 anos de experiência em projetos pessoais e desafios.
+Sou um entusiasta da programação com mais de 2 anos de experiência em projetos pessoais e desafios da comunidade.
 
 Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito máximo ao cliente. Acredito que uma comunicação clara e eficaz é essencial para entender e atender às necessidades dos clientes de forma satisfatória.
 
