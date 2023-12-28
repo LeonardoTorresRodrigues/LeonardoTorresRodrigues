@@ -39,6 +39,10 @@
   
   # Sobre
 
-Sou um entusiasta da programação com mais de 2 anos de experiência em projetos pessoais e desafios da comunidade.
+Com mais de 2 anos dedicados à programação, construí uma sólida trajetória em projetos pessoais e enfrentei desafios que enriqueceram minha jornada profissional. 
 
-Durante minha jornada, aprendi a seguir hierarquias e a priorizar o respeito máximo ao cliente. Acredito que uma comunicação clara e eficaz é essencial para entender e atender às necessidades dos clientes de forma satisfatória.
+Valorizo a pontualidade e a responsabilidade, fundamentais para entregar trabalhos de qualidade e garantir o respeito ao cliente. 
+
+Acredito que uma comunicação direta e eficaz é crucial para atender às demandas dos clientes de forma eficiente. 
+
+Com experiência tanto no front-end quanto no back-end, e em sistemas Linux, estou preparado para contribuir em diversos projetos e ambientes.
