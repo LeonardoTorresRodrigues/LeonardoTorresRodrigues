@@ -9,6 +9,10 @@
   </a>
 </div>
   <H1>Olá, eu sou o Leonardo :smile: </H1>
+
+  | :placard: Current Projects |     |
+| -------------  | --- |
+| 🎮 DOOMstein        | https://github.com/LeonardoTorresRodrigues/doom-wolfenstein
 </div>
 
 <div align="center">
