@@ -42,10 +42,4 @@
   
   # Sobre
 
-Com mais de 2 anos dedicados à programação, construí uma sólida trajetória em projetos pessoais e enfrentei desafios que enriqueceram minha jornada profissional. 
-
-Valorizo a pontualidade e a responsabilidade, fundamentais para entregar trabalhos de qualidade e garantir o respeito ao cliente. 
-
-Acredito que uma comunicação direta e eficaz é crucial para atender às demandas dos clientes de forma eficiente. 
-
-Com experiência tanto no front-end quanto no back-end, e em sistemas Linux, estou preparado para contribuir em diversos projetos e ambientes.
+Com mais de 2 anos dedicados à programação, tenho experiência tanto no front-end quanto no back-end, e em sistemas Linux. Valorizo a pontualidade e a responsabilidade, fundamentais para entregar trabalhos de qualidade e garantir o respeito ao cliente.
